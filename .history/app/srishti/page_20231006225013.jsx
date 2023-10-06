@@ -41,7 +41,7 @@ const page = () => {
                 </div>
                 
                 <div className='bg-neutral-900 lg:w-[25vw] h-[28vh]  rounded-xl flex gap-1 overflow-hidden items-center justify-center text-center px-5  relative'>
-                        <p className='text-xl '><span className='italic text-2xl'>&quot;You&apos;re the most beautiful thing that ever happened to me.&quot;</span>  <br /><span className='absolute bottom-7 left-[50%] translate-x-[-50%]'>
+                        <p className='text-xl '><span className='italic text-2xl'>&quot;You're the most beautiful thing that ever happened to me.&quot;</span>  <br /><span className='absolute bottom-7 left-[50%] translate-x-[-50%]'>
                         Ansh</span></p>
                 </div>
             </div>
@@ -60,7 +60,7 @@ const page = () => {
                 </p>
 
                 <p>
-                she&apos;s always willing to lend a hand or a listening ear when you need it most. Her passion for food isn&apos;t just about eating; it&apos;s a genuine enthusiasm for exploring new tastes and culinary adventures together. 
+                she's always willing to lend a hand or a listening ear when you need it most. Her passion for food isn&apos;t just about eating; it&apos;s a genuine enthusiasm for exploring new tastes and culinary adventures together. 
 
 
 

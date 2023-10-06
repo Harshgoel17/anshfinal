@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import React from 'react'
 
 //34 33 25 79 50 89 36 13 38

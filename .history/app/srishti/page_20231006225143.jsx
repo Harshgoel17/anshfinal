@@ -60,7 +60,7 @@ const page = () => {
                 </p>
 
                 <p>
-                she&apos;s always willing to lend a hand or a listening ear when you need it most. Her passion for food isn&apos;t just about eating; it&apos;s a genuine enthusiasm for exploring new tastes and culinary adventures together. 
+                she's always willing to lend a hand or a listening ear when you need it most. Her passion for food isn&apos;t just about eating; it&apos;s a genuine enthusiasm for exploring new tastes and culinary adventures together. 
 
 
 
